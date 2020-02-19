@@ -15,8 +15,8 @@ var data = {
         },
     {
         title:"what is the colour of a banana?",
-        answer:"yellow"
-        bgcolor:"rgb (2,150,232)",
+        answer:"yellow",
+        bgcolor:"#green",
         img: "http://placekitten.com/100/100"
     }
     ]
