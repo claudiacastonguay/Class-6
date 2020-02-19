@@ -1,0 +1,49 @@
+html, body {
+    margin:0;
+}
+
+#mainapp {
+    width:100vw;
+    height:100vh;
+}
+
+#mid {
+    flex-direction:column;
+}
+
+#mid > div {
+    margin:5px;
+    padding:5px;
+}
+
+#ques {
+    font-size:25px;
+}
+
+.flexed {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* #buttonsection {
+    width:500px;
+    height:100px;
+    display: flex;
+    margin: 5px;
+}
+
+#input { 
+    flex: 3;
+    justify-content: space-around;
+    border: solid 1px black;
+    background-color: white;
+}
+
+#button {
+    flex:1;
+    justify-content: space-around;
+    background-color: grey;
+} */
